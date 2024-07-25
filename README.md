@@ -16,7 +16,7 @@ A small collection of helper functions for various data manipulation and calcula
 - `loadpd`: Load a pandas DataFrame from a pickle file
 - `tslice`: Extract a column from a list of lists
 - `flatten`: Flatten a list of lists
-- 'xor' : XOR bitwise on a hex data on two halves of itself.
+- `xor` : XOR bitwise on a hex data on two halves of itself.
 - `digit`: Count digits in a number
 
 ## Usage
